@@ -1,3 +1,3 @@
-https://cookbook.openai.com/  \n
-https://www.hubermanlab.com/all-episodes  \n
-https://lilianweng.github.io/  \n
+1. https://cookbook.openai.com/  
+2. https://www.hubermanlab.com/all-episodes 
+3. https://lilianweng.github.io/  
